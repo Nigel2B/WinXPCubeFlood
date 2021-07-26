@@ -6,6 +6,7 @@
 How to install the game?
 
 ***\\ Windows***
+ 
  1 - Download latest game release for Windows. | File: WinXPCubeFlood-Win.zip
  
  2 - Unpack with Windows Explorer / 7zip / WinRar.
@@ -15,6 +16,7 @@ How to install the game?
  4 - Have fun!
 
 ***\\ Android (You need to have installing from unknown sources turned on!!!)***
+ 
  1 - Download latest game release for Android. | File: WinXPCubeFlood-Android.apk
  
  2 - Copy the file to your Android device.
@@ -41,6 +43,7 @@ How to install the game?
 Jak zainstalować grę?
 
 ***\\ Windows***
+  
   1 — Pobierz najnowszą wersję gry na Windowsa. | Plik: WinXPCubeFlood-Win.zip
   
   2 - Rozpakuj za pomocą Eksploratora Windows / 7zip / WinRar.
@@ -50,6 +53,7 @@ Jak zainstalować grę?
   4 - Baw się dobrze!
 
 ***\\ Android (Musisz mieć włączoną instalację z nieznanych źródeł!!!)***
+  
   1 - Pobierz najnowszą wersję gry na Androida. | Plik: WinXPCubeFlood-Android.apk
   
   2 - Skopiuj plik na urządzenie z systemem Android.
