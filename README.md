@@ -1,3 +1,16 @@
+Hey, im a 13 year old programmer starting his journey with C#!
+This game is about spawning cubes with fart sound, dragging them around the platform and much more!
+Play with your friends, battle them!
+
+---
+Sources:
+ - Music: https://www.youtube.com/watch?v=D3-vBBQKOYU
+   | Artist: Unknown
+   | ***Disclaimer: This music is not made by me, all rights belong to artist which is unknown.***
+
+- Fart Sound: Vine Fart Sound Effect (https://www.youtube.com/watch?v=d5oq6SsJh6g)
+---
+
 # WinXPCubeFlood
 
 ***/// ENGLISH/ANGIELSKI***
