@@ -5,8 +5,8 @@ Play with your friends, battle them on how much cubes do you spawned!
 ---
 Sources:
  - Music: https://www.youtube.com/watch?v=D3-vBBQKOYU
-   | Artist: Unknown
-   | ***Disclaimer: This music is not made by me, all rights belong to artist which is unknown.***
+   | Artist: Fabio Mariano
+   | ***Disclaimer: This music is not made by me, all rights belong to the artist.***
 
 - Fart Sound: Vine Fart Sound Effect (https://www.youtube.com/watch?v=d5oq6SsJh6g)
 ---
