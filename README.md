@@ -1,6 +1,6 @@
 Hey, im a 13 year old programmer starting his journey with C#!
-This game is about spawning cubes with fart sound, dragging them around the platform and much more!
-Play with your friends, battle them!
+This game is about spawning cubes with Vine Fard sound, dragging them around the platform and much more!
+Play with your friends, battle them on how much cubes do you spawned!
 
 ---
 Sources:
